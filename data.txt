@@ -224,9 +224,9 @@
 	last_updated: 2013-10-23
 [newrelic]
 	company: New Relic
-	num_female_eng: 30
-	num_eng: 151
-	last_updated: 2013-10-23
+	num_female_eng: 26
+	num_eng: 157
+	last_updated: 2014-1-22
 [howaboutwe]
 	company: HowAboutWe
 	num_female_eng: 4
